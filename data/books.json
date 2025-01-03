@@ -1,0 +1,808 @@
+[
+    {
+        "name": "Сын полка (илл. Гринштейн)",
+        "author": "Валентин Петрович Катаев",
+        "image": "https://traumlibrary.ru/book/kataev-syn-polka/cover.jpg",
+        "link": "https://traumlibrary.ru/book/kataev-syn-polka/kataev-syn-polka.fb2.zip",
+        "genre": "классика"
+    },
+    {
+        "name": "Кладовая солнца",
+        "author": "Михаил Михайлович Пришвин",
+        "image": "https://traumlibrary.ru/book/prishvin-kladovaya/cover.jpg",
+        "link": "https://traumlibrary.ru/book/prishvin-kladovaya/prishvin-kladovaya.fb2.zip",
+        "genre": "фантастика"
+    },
+    {
+        "name": "Кладовая солнца",
+        "author": "Михаил Михайлович Пришвин",
+        "image": "https://traumlibrary.ru/book/prishvin-kladovaya/cover.jpg",
+        "link": "https://traumlibrary.ru/book/prishvin-kladovaya/prishvin-kladovaya.fb2.zip",
+        "genre": "фантастика"
+    },
+    {
+        "author": "Сергей Александрович Есенин",
+        "name": "Том 1. Стихотворения",
+        "image": "https://traumlibrary.ru/book/esenin-pss07-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/esenin-pss07-01/esenin-pss07-01.fb2.zip",
+        "genre": "классика"
+    },
+     {
+        "name": "Том 2. Стихотворения (Маленькие поэмы)",
+        "author": "Сергей Александрович Есенин",
+        "image": "https://traumlibrary.ru/book/esenin-pss07-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/esenin-pss07-02/esenin-pss07-02.fb2.zip",
+        "genre": "классика"
+    },
+    {
+        "name": "Том 1. Стихотворения 1906-1920",
+        "author": "Цветаева Марина Ивановна",
+        "image": "https://traumlibrary.ru/book/cvetaeva-ss07-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/cvetaeva-ss07-01/cvetaeva-ss07-01.fb2.zip",
+        "genre": "классика"
+    },
+    
+    {
+        "name": "Сатиры и лирика",
+        "author": "Саша Черный",
+        "image": "https://traumlibrary.ru/book/cherniy-ss05-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/cherniy-ss05-01/cherniy-ss05-01.fb2.zip",
+        "genre": "классика"
+    },
+    
+    {
+        "name": "Драматургия. Проза",
+        "author": "Николай Степанович Гумилев",
+        "image": "https://traumlibrary.ru/book/gumilev-ss03-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gumilev-ss03-02/gumilev-ss03-02.fb2.zip",
+        "genre": "классика"
+    },
+    {
+        "name": "Рассказы, повести, юморески 1880-1882",
+        "author": "Чехов Антон Павлович",
+        "image": "https://traumlibrary.ru/book/chekhov-pss30-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/chekhov-pss30-01/chekhov-pss30-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Алые паруса. Романы",
+        "author": "Александр Степанович Грин",
+        "image": "https://traumlibrary.ru/book/grin-ss05-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/grin-ss05-04/grin-ss05-04.fb2.zip",
+        "genre": "классика"
+    },
+
+
+    {
+        "name": "Уральские рассказы",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-04/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-04/mamin-sibiryak-ss10-04.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Сибирские рассказы",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-05/mamin-sibiryak-ss10-05.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Золотопромышленники",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-06/mamin-sibiryak-ss10-06.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Три конца. Охонины брови",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-07/mamin-sibiryak-ss10-07.fb2.zip",
+        "genre": "классика"
+    },
+
+
+    {
+        "name": "Хлеб. Разбойники. Рассказы",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-09/mamin-sibiryak-ss10-09.fb2.zip",
+        "genre": "классика"
+    },
+
+
+    {
+        "name": "Ноктюрны",
+        "author": "Дмитрий Наркисович Мамин-Сибиряк",
+        "image": "https://traumlibrary.ru/book/mamin-sibiryak-ss10-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/mamin-nokturny/mamin-nokturny.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Семейная хроника. Детские годы Багрова-внука",
+        "author": "Сергей Тимофеевич Аксаков",
+        "image": "https://traumlibrary.ru/book/aksakov-ss05-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/aksakov-ss05-01/aksakov-ss05-01.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Записки ружейного охотника",
+        "author": "Сергей Тимофеевич Аксаков",
+        "image": "https://traumlibrary.ru/book/aksakov-ss05-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/aksakov-ss05-05/aksakov-ss05-05.fb2.zip",
+        "genre": "приключения"
+    },
+
+
+    {
+        "name": "Профессор бессмертия",
+        "author": "Алексей Николаевич Апухтин",
+        "image": "https://traumlibrary.ru/book/sbornik-professor/cover.jpg",
+        "link": "https://traumlibrary.ru/book/sbornik-professor/sbornik-professor.fb2.zip",
+        "genre": "приключения"
+    },
+
+
+    {
+        "name": "Девичья игрушка, или Сочинения господина Баркова",
+        "author": "Иван Семенович Барков",
+        "image": "https://traumlibrary.ru/book/barkov-igrushka/cover.jpg",
+        "link": "https://traumlibrary.ru/book/barkov-igrushka/barkov-igrushka.fb2.zip",
+        "genre": "классика"
+    },
+    {
+        "name": "Полное собрание стихотворений",
+        "author": "Константин Николаевич Батюшков",
+        "image": "https://traumlibrary.ru/book/batushkov-poems/cover.jpg",
+        "link": "https://traumlibrary.ru/book/batushkov-poems/batushkov-poems.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Кавказские повести",
+        "author": "Александр Александрович Бестужев-Марлинский",
+        "image": "https://traumlibrary.ru/book/bestuzhev-kavkaz/cover.jpg",
+        "link": "https://traumlibrary.ru/book/bestuzhev-kavkaz/bestuzhev-kavkaz.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Ночь на корабле",
+        "author": "Александр Александрович Бестужев-Марлинский",
+        "image": "https://traumlibrary.ru/book/bestizhev-noch-na-korable/cover.jpg",
+        "link": "https://traumlibrary.ru/book/bestizhev-noch-na-korable/bestizhev-noch-na-korable.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Романы",
+        "author": "Александр Фомич Вельтман",
+        "image": "https://traumlibrary.ru/book/veltman-romany/cover.jpg",
+        "link": "https://traumlibrary.ru/book/veltman-romany/veltman-romany.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Лунатик (Случай)",
+        "author": "Александр Фомич Вельтман",
+        "image": "https://traumlibrary.ru/book/veltman-lunatik/cover.jpg",
+        "link": "https://traumlibrary.ru/book/veltman-lunatik/veltman-lunatik.fb2.zip",
+        "genre": "приключения"
+    },
+    {
+        "name": "Избранное",
+        "author": "Всеволод Михайлович Гаршин",
+        "image": "https://traumlibrary.ru/book/garshin-izbrannoe/cover.jpg",
+        "link": "https://traumlibrary.ru/book/garshin-izbrannoe/garshin-izbrannoe.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Вечера на хуторе близ Диканьки",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-01/gogol-pss14-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Миргород",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-02/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-02/gogol-pss14-02.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Повести",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-03/gogol-pss14-03.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Ревизор",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-04/gogol-pss14-04.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Женитьба. Драматические отрывки",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-05/gogol-pss14-05.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Мертвые души. Том 1",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-06/gogol-pss14-06.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Мертвые души. Том 2",
+        "author": "Николай Васильевич Гоголь",
+        "image": "https://traumlibrary.ru/book/gogol-pss14-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol-pss14-07/gogol-pss14-07.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Гоголь в воспоминаниях современников",
+        "author": "воспоминания – И. С. Тургенева, П. В. Анненкова, С. Т. Аксакова",
+        "image": "https://traumlibrary.ru/book/gogol--sbornik-gvs/cover.jpg",
+        "link": "https://traumlibrary.ru/book/gogol--sbornik-gvs/gogol--sbornik-gvs.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Обыкновенная история",
+        "author": "Иван Александрович Гончаров",
+        "image": "https://traumlibrary.ru/book/goncharov-ss8-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/goncharov-ss8-01/goncharov-ss8-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Обломов",
+        "author": "Иван Александрович Гончаров",
+        "image": "https://traumlibrary.ru/book/goncharov-ss8-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/goncharov-ss8-04/goncharov-ss8-04.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Село Степанчиково и его обитатели",
+        "author": "Федор Михайлович Достоевский",
+        "image": "https://traumlibrary.ru/book/dostoevsky-pss15-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dostoevsky-pss15-03/dostoevsky-pss15-03.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Преступление и наказание",
+        "author": "Федор Михайлович Достоевский",
+        "image": "https://traumlibrary.ru/book/dostoevsky-pss15-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dostoevsky-pss15-05/dostoevsky-pss15-05.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Идиот",
+        "author": "Федор Михайлович Достоевский",
+        "image": "https://traumlibrary.ru/book/dostoevsky-pss15-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dostoevsky-pss15-06/dostoevsky-pss15-06.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Бесы",
+        "author": "Федор Михайлович Достоевский",
+        "image": "https://traumlibrary.ru/book/dostoevsky-pss15-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dostoevsky-pss15-07/dostoevsky-pss15-07.fb2.zip",
+        "genre": "классика"
+    },
+    {
+        "name": "Братья Карамазовы",
+        "author": "Федор Михайлович Достоевский",
+        "image": "https://traumlibrary.ru/book/dostoevsky-pss15-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dostoevsky-pss15-09/dostoevsky-pss15-09.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Проза",
+        "author": "Иван Андреевич Крылов",
+        "image": "https://traumlibrary.ru/book/krylov-pss03-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/krylov-pss03-01/krylov-pss03-01.fb2.zip",
+        "genre": "классика"
+    },
+
+     {
+        "name": "Драматургия",
+        "author": "Иван Андреевич Крылов",
+        "image": "https://traumlibrary.ru/book/krylov-pss03-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/krylov-pss03-02/krylov-pss03-02.fb2.zip",
+        "genre": "классика"
+    },
+
+     {
+        "name": "Басни, стихотворения",
+        "author": "Иван Андреевич Крылов",
+        "image": "https://traumlibrary.ru/book/krylov-pss03-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/krylov-pss03-03/krylov-pss03-03.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Стихотворения 1828-1831",
+        "author": "Михаил Юрьевич Лермонтов",
+        "image": "https://traumlibrary.ru/book/lermontov-ss06-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/lermontov-ss06-01/lermontov-ss06-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Разбойник. Повести и рассказы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-01/leskov-ss11-01.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Некуда",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-02/leskov-ss11-02.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Захудалый род. Павлин. Детские годы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-05/leskov-ss11-05.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Железная воля. Повести и рассказы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-06/leskov-ss11-06.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Белый орел. Повести и рассказы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-07/leskov-ss11-07.fb2.zip",
+        "genre": "приключения"
+    },
+
+    {
+        "name": "Пугало. Повести и рассказы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-08/leskov-ss11-08.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Час воли божией. Повести и рассказы",
+        "author": "Николай Семенович Лесков",
+        "image": "https://traumlibrary.ru/book/leskov-ss11-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/leskov-ss11-09/leskov-ss11-09.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Избранные произведения",
+        "author": "Михаил Васильевич Ломоносов",
+        "image": "https://traumlibrary.ru/book/lomonosov-poetry/cover.jpg",
+        "link": "https://traumlibrary.ru/book/lomonosov-poetry/lomonosov-poetry.fb2.zip",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Кому на Руси жить хорошо",
+        "author": "Николай Алексеевич Некрасов",
+        "image": "https://traumlibrary.ru/book/nekrasov-ss15-05/cover.jpg",
+        "link": "https://traumlibrary.ru/book/nekrasov-ss15-05/nekrasov-ss15-05.fb2.zip",
+        "genre": "классика"
+    },
+    
+    {
+        "name": "Три страны света",
+        "author": "Николай Алексеевич Некрасов",
+        "image": "https://traumlibrary.ru/book/nekrasov-ss15-05/cover.jpg",
+        "link": "https://traumlibrary.ru/book/nekrasov-ss15-05/nekrasov-ss15-05.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Евгений Онегин",
+        "author": "Александр Сергеевич Пушкин",
+        "image": "https://traumlibrary.ru/book/pushkin-pss10-05/cover.jpg",
+        "link": "https://traumlibrary.ru/book/pushkin-pss10-05/pushkin-pss10-05.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Анна Каренина. Том 1",
+        "author": "Лев Николаевич Толстой",
+        "image": "https://traumlibrary.ru/book/tolstoy-ln-ss22-08/cover.jpg",
+        "link": "https://traumlibrary.ru/book/tolstoy-ln-ss22-08/tolstoy-ln-ss22-08.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Анна Каренина. Том 2",
+        "author": "Лев Николаевич Толстой",
+        "image": "https://traumlibrary.ru/book/tolstoy-ln-ss22-08/cover.jpg",
+        "link": "https://traumlibrary.ru/book/tolstoy-ln-ss22-09/tolstoy-ln-ss22-09.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Воскресение",
+        "author": "Лев Николаевич Толстой",
+        "image": "https://traumlibrary.ru/book/tolstoy-ln-ss22-08/cover.jpg",
+        "link": "https://traumlibrary.ru/book/tolstoy-ln-ss22-13/tolstoy-ln-ss22-13.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Детство, Отрочество, Юность",
+        "author": "Лев Николаевич Толстой",
+        "image": "https://traumlibrary.ru/book/tolstoy-ln-ss22-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/tolstoy-ln-ss22-01/tolstoy-ln-ss22-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Записки охотника",
+        "author": "Иван Сергеевич Тургенев",
+        "image": "https://traumlibrary.ru/book/turgenev-ss30-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/turgenev-ss30-03/turgenev-ss30-03.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Первая любовь",
+        "author": "Иван Сергеевич Тургенев",
+        "image": "https://traumlibrary.ru/book/turgenev-ss30-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/turgenev-ss30-06/turgenev-ss30-06.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Отцы и дети.",
+        "author": "Иван Сергеевич Тургенев",
+        "image": "https://traumlibrary.ru/book/turgenev-ss30-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/turgenev-ss30-07/turgenev-ss30-07.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Нравы Растеряевой улицы",
+        "author": "Глеб Иванович Успенский",
+        "image": "https://traumlibrary.ru/book/uspenskiy-ss09-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/uspenskiy-ss09-01/uspenskiy-ss09-01.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Новые времена, новые заботы",
+        "author": "Глеб Иванович Успенский",
+        "image": "https://traumlibrary.ru/book/uspenskiy-ss09-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/uspenskiy-ss09-03/uspenskiy-ss09-03.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Жизнь Степановки, или Лирическое хозяйство",
+        "author": "Афанасий Афанасьевич Фет",
+        "image": "https://traumlibrary.ru/book/fet-stepanovka/cover.jpg",
+        "link": "https://traumlibrary.ru/book/fet-stepanovka/fet-stepanovka.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Проза поэта",
+        "author": "Афанасий Афанасьевич Фет",
+        "image": "https://traumlibrary.ru/book/fet-prozapoeta/cover.jpg",
+        "link": "https://traumlibrary.ru/book/fet-prozapoeta/fet-prozapoeta.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Мастерица варить кашу",
+        "author": "Николай Гаврилович Чернышевский",
+        "image": "https://traumlibrary.ru/book/chernyshevskiy-ss05-02/cover.jpg",
+        "link": "https://traumlibrary.ru/book/chernyshevskiy-ss05-02/chernyshevskiy-ss05-02.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Три страны света",
+        "author": "Николай Алексеевич Некрасов",
+        "image": "https://traumlibrary.ru/book/nekrasov-ss15-05/cover.jpg",
+        "link": "https://traumlibrary.ru/book/nekrasov-ss15-05/nekrasov-ss15-05.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Кормило кормчему",
+        "author": "Николай Гаврилович Чернышевский",
+        "image": "https://traumlibrary.ru/book/chernyshevskiy-kormilo/cover.jpg",
+        "link": "https://traumlibrary.ru/book/chernyshevskiy-kormilo/chernyshevskiy-kormilo.fb2.zip",
+        "genre": "классика"
+    },
+
+    {
+        "name": "Саранча",
+        "author": "Сергей Федорович Буданцев",
+        "image": "https://traumlibrary.ru/book/budancev-sarancha/cover.jpg",
+        "link": "https://traumlibrary.ru/book/budancev-sarancha/budancev-sarancha.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Эскадрилья всемирной коммуны",
+        "author": "Сергей Федорович Буданцев",
+        "image": "https://traumlibrary.ru/book/polaris-kommuna/cover.jpg",
+        "link": "https://traumlibrary.ru/book/polaris-kommuna/polaris-kommuna.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Психо-машина",
+        "author": "Виктор Алексеевич Гончаров",
+        "image": "https://traumlibrary.ru/book/goncharovv-ss6-01/cover.jpg",
+        "link": "https://traumlibrary.ru/book/goncharovv-ss6-01/goncharovv-ss6-01.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Долина смерти",
+        "author": "Виктор Алексеевич Гончаров",
+        "image": "https://traumlibrary.ru/book/goncharovv-ss6-03/cover.jpg",
+        "link": "https://traumlibrary.ru/book/goncharovv-ss6-03/goncharovv-ss6-03.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Век гигантов",
+        "author": "Виктор Алексеевич Гончаров",
+        "image": "https://traumlibrary.ru/book/goncharovv-ss6-05/cover.jpg",
+        "link": "https://traumlibrary.ru/book/goncharovv-ss6-05/goncharovv-ss6-05.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Мастерская человеков",
+        "author": "Ефим Давидович Зозуля",
+        "image": "https://traumlibrary.ru/book/zozulya-masterskaya/cover.jpg",
+        "link": "https://traumlibrary.ru/book/zozulya-masterskaya/zozulya-masterskaya.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Старик Хоттабыч",
+        "author": "Лазарь Иосифович Лагин",
+        "image": "https://traumlibrary.ru/book/lagin-hottabych-1938/cover.jpg",
+        "link": "https://traumlibrary.ru/book/lagin-hottabych-1938/lagin-hottabych-1938.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Заклинатель змей",
+        "author": "Николай Алексеевич Карпов",
+        "image": "https://traumlibrary.ru/book/karpovna-zaklinatel/cover.jpg",
+        "link": "https://traumlibrary.ru/book/karpovna-zaklinatel/karpovna-zaklinatel.fb2.zip",
+        "genre": "фантастика"
+    },
+
+    {
+        "name": "Черное золото",
+        "author": "Дир Туманный",
+        "image": "https://traumlibrary.ru/book/dir-tuman-chernoe-zoloto/cover.jpg",
+        "link": "https://traumlibrary.ru/book/dir-tuman-chernoe-zoloto/dir-tuman-chernoe-zoloto.fb2.zip",
+        "genre": "фантастика"
+    },
+
+
+    {
+        "name": "Метеориты - осколки астероидов",
+        "author": "Симоненко Алла Николаевна",
+        "image": "https://www.rulit.me/data/programs/images/meteority-oskolki-asteroidov_591892.jpg",
+        "link": "https://www.rulit.me/download-books-591892.html?t=pdf",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Астрономия. 11 класс",
+        "author": "Воронцов-Вельяминов Борис Александрович",
+        "image": "https://www.rulit.me/data/programs/images/astronomiya-11-klass_829933.jpg",
+        "link": "https://www.rulit.me/download-books-591892.html?t=pdf",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Российский космос",
+        "author": "космос» Журнал «Российский",
+        "image": "https://www.rulit.me/data/programs/images/807574_807574.jpg",
+        "link": "https://www.rulit.me/download-books-807574.html?t=pdf",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Загадка Марса",
+        "author": "Зигель Феликс Юрьевич",
+        "image": "https://www.rulit.me/data/programs/images/zagadka-marsa_583245.jpg",
+        "link": "https://www.rulit.me/download-books-583245.html?t=fb2",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Термодинамика растворов",
+        "author": "Шейндлин Александр Ефимович",
+        "image": "https://www.rulit.me/data/programs/images/termodinamika-rastvorov_805809.jpg",
+        "link": "https://www.rulit.me/download-books-805809.html?t=pdf",
+        "genre": "наука"
+    },
+
+    {
+        "name": "Великий замысел",
+        "author": "Хокинг Стивен Уильям",
+        "image": "https://www.rulit.me/data/programs/images/velikij-zamysel_220084.jpg",
+        "link": "https://www.rulit.me/download-books-220084.html?t=fb2",
+        "genre": "наука"
+    },
+
+    {
+        "name": "BASIC. Разговор с компьютером",
+        "author": "Емельченков Евгений Петрович",
+        "image": "https://www.rulit.me/data/programs/images/basic-razgovor-s-kompyuterom_912600.jpg",
+        "link": "https://www.rulit.me/download-books-912600.html?t=djvu",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Программирование и основы алгоритмизации",
+        "author": "Давыдов Владимир Григорьевич",
+        "image": "https://www.rulit.me/data/programs/images/programmirovanie-i-osnovy-algoritmizacii_912573.jpg",
+        "link": "https://www.rulit.me/download-books-912600.html?t=djvu",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Бейсик для школьников. Подготовка к ЕГЭ",
+        "author": "Кашаев Сергей Михайлович",
+        "image": "https://www.rulit.me/data/programs/images/bejsik-dlya-shkolnikov-podgotovka-k-ege_911208.jpg",
+        "link": "https://www.rulit.me/download-books-912600.html?t=djvu",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Шпаргалка начинающего тестировщика 2025",
+        "author": "Матвеева Наталия",
+        "image": "https://www.rulit.me/data/programs/images/shpargalka-nachinayushchego-testirovshchika-2025_908956.png",
+        "link": "https://www.rulit.me/download-books-908956.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Программирование компьютерных игр",
+        "author": "Горнаков Станислав Г.",
+        "image": "https://www.rulit.me/data/programs/images/programmirovanie-kompyuternyh-igr-pod-windows-v-xna-game-stu_909010.jpg",
+        "link": "https://www.rulit.me/download-books-909290.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Всё об ИИ чат-боте ChatGPT",
+        "author": "Демиденко Артем",
+        "image": "https://www.rulit.me/data/programs/images/vsyo-ob-ii-chat-bote-chatgpt_884160.jpg",
+        "link": "https://www.rulit.me/download-books-884160.html?t=fb2",
+        "genre": "программирование"
+    },
+
+
+    {
+        "name": "Пиксель. История одной точки",
+        "author": "Смит Элви Рэй",
+        "image": "https://www.rulit.me/data/programs/images/piksel-istoriya-odnoj-tochki-a-biography-of-the-pixel_878704.jpg",
+        "link": "https://www.rulit.me/download-books-878704.html?t=fb2",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Машинное обучение.",
+        "author": "Григорьев Алексей",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-909290.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Основы Блокчейна",
+        "author": "Raj Koshik",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-870231.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Наука о данных в действии",
+        "author": "Апельцин Леонард",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-909290.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Руководство по DevOps",
+        "author": "Ким Джен",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-909290.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Микросервисы и API",
+        "author": "Хосе Перальта Аро",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-869435.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Искусственный интеллект в стратегических играх",
+        "author": "Шпигорь Илья",
+        "image": "https://www.rulit.me/kotha/images/nocover.jpg",
+        "link": "https://www.rulit.me/download-books-868944.html?t=pdf",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "О шифрах, кодах и искусственном интеллекте",
+        "author": "Тьюринг Алан, фон Нейман Джон",
+        "image": "https://www.rulit.me/data/programs/images/igra-v-imitaciyu-o-shifrah-kodah-i-iskusstvennom-intellekte_863421.jpg",
+        "link": "https://www.rulit.me/download-books-863421.html?t=fb2",
+        "genre": "программирование"
+    },
+
+    {
+        "name": "Чистая архитектура",
+        "author": "Martin Robert СeСil",
+        "image": "https://www.rulit.me/data/programs/images/chistaya-arhitektura_524714.jpg",
+        "link": "https://www.rulit.me/download-books-909290.html?t=pdf",
+        "genre": "программирование"
+    },
+
+
+    {
+        "name": "Логические игры с калькулятором",
+        "author": "Грузман Михаил Зиновьевич",
+        "image": "https://www.rulit.me/data/programs/images/logicheskie-igry-s-kalkulyatorom_909021.jpg",
+        "link": "https://www.rulit.me/download-books-909021.html?t=djvu",
+        "genre": "программирование"
+    }
+]

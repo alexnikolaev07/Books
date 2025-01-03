@@ -1,0 +1,210 @@
+body {
+    display: flex;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+    overflow: auto;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.logo img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin: 10px 0;
+    cursor: pointer;
+    color: black;
+    font-size: 18px;
+}
+
+nav li.active {
+    color: red;
+}
+
+.content {
+    flex-grow: 1;
+    padding: 20px;
+    margin-left: 250px;
+}
+
+.page {
+    display: none;
+}
+
+.page.active {
+    display: block;
+}
+
+.small-text {
+    font-size: 14px;
+    color: gray;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.author-list-container {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.author-list {
+    display: flex;
+    overflow-x: auto;
+    width: 100%;
+    margin: 0 10px;
+}
+
+.author-list div {
+    margin: 10px;
+    text-align: center;
+    flex: 0 0 auto;
+}
+
+.main-content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.glavnaya-image {
+    width: 650px;
+    height: 450px;
+    display: block;
+    margin: 0 auto;
+}
+
+.main-image {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+blockquote {
+    font-size: 18px;
+    color: #333;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-5 {
+    margin-top: 3rem;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-item {
+    flex: 0 0 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-right: 10px;
+}
+
+.book-image {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.book-info {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.book-info h4 {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.book-info p {
+    font-size: 14px;
+    color: #555;
+}
+
+.book-info button {
+    margin-top: 10px;
+}
+
+.tree-visualization {
+    width: 8000px; 
+    height: 5000px; 
+    position: relative;
+    overflow: auto; 
+    cursor: grab;
+}
+
+
+.tree-node {
+    position: absolute;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.2;
+    width: 100px;
+    transform: translateX(-50px);
+}
+
+.tree-node img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border: 2px solid #ccc;
+}
+
+.tree-node .label {
+    margin-top: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.tree-node .details {
+    font-size: 10px;
+    color: #555;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.tree-line {
+    position: absolute;
+    height: 2px;
+    background-color: #888;
+    transform-origin: top left;
+    z-index: -1;
+}

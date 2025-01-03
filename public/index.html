@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="styles.css" rel="stylesheet">
+		<script src="script.js" defer>
+		</script>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+		rel="stylesheet">
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+		rel="stylesheet">
+		<title>
+			Библиотека
+		</title>
+	</head>
+	<body>
+		<div class="sidebar">
+			<div class="logo">
+				<img src="res/logo.png" alt="Логотип">
+				<span>
+					Библиотека
+				</span>
+			</div>
+			<nav>
+				<ul>
+					<li data-page="main" class="active">
+						Главная
+					</li>
+					<li data-page="authors">
+						Книги
+					</li>
+					<li data-page="contacts">
+						Визуализация
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="content">
+			<div id="main-page" class="page active">
+				<p class="small-text">
+					Изучайте новые книги
+				</p>
+				<h1>
+					Познавайте классическую литературу
+				</h1>
+				<div class="author-list-container">
+					<div class="author-list">
+					</div>
+				</div>
+				<div class="main-content">
+					<img src="res/pushkin.jpg" alt="Пушкин" class="main-image">
+					<div>
+						<p class="small-text">
+							А.С. Пушкин
+						</p>
+						<blockquote>
+							<em>
+								«Чтение — вот лучшее учение. Следовать за мыслями великого человека —
+								есть наука самая занимательная»
+							</em>
+						</blockquote>
+					</div>
+				</div>
+				<img src="res/glavnaya_1.jpg" alt="Главная" class="glavnaya-image">
+				<div class="main-content">
+					<img src="res/pirogov.jpg" alt="Пушкин" class="main-image">
+					<div>
+						<p class="small-text">
+							Н. И. Пирогов
+						</p>
+						<blockquote>
+							<em>
+								«Учитесь, читайте, размышляйте и извлекайте из всего самое полезное»
+							</em>
+						</blockquote>
+					</div>
+				</div>
+				<div class="text-center mt-5">
+					<p>
+						Прямо сейчас вы можете познакомиться с огромным количеством книг самых
+						разных жанров, которые есть на данном сайте.
+					</p>
+					<button class="btn btn-primary" onclick="navigateToAuthors()">
+						Нажмите для перехода на старницу для книг
+					</button>
+				</div>
+			</div>
+			<div id="authors-page" class="page">
+				<h1>
+					Все книги
+				</h1>
+				<div class="search-container">
+					<input type="text" id="searchInput" class="form-control mb-3" placeholder="Поиск по названию книги">
+					<input type="text" id="authorSearchInput" class="form-control mb-3" placeholder="Поиск по автору">
+					<select class="custom-select" id="genreSelect">
+						<option value="">
+							Все жанры
+						</option>
+						<option value="наука">
+							Наука
+						</option>
+						<option value="классика">
+							Классика
+						</option>
+						<option value="фантастика">
+							Фантастика
+						</option>
+						<option value="приключения">
+							Приключения
+						</option>
+						<option value="программирование">
+							Программирование
+						</option>
+					</select>
+				</div>
+				<div class="book-list mt-4">
+				</div>
+			</div>
+			<div id="contacts-page" class="page">
+				<h1>
+					Визуализация АВЛ-дерева
+				</h1>
+				<div id="avl-tree-visualization" class="tree-visualization">
+				</div>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js">
+		</script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js">
+		</script>
+	</body>
+
+</html>
